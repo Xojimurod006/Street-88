@@ -1,3 +1,3 @@
 # Street-88
-##Oziq-Ovqatlar
+## Oziq-Ovqatlar
 Taom
